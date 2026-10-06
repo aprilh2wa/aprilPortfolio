@@ -13,9 +13,9 @@ const PROJECTS = [
 ];
 const CONTACTS = [
   { icon: "discord", label: "Discord: h2wa", href: "https://discord.com/users/1077969057313202357" },
-  { icon: "instagram", label: "Instagram: @YOUR_INSTAGRAM", href: "https://instagram.com/apriljobs4" },
-  { icon: "x", label: "X: @YOUR_X_HANDLE", href: "https://x.com/april_sx?s=11" },
-  { icon: "email", label: "Email me", href: "aprilh2wa@gmail.com" }
+  { icon: "instagram", label: "Instagram: @apriljobs4", href: "https://instagram.com/apriljobs4" },
+  { icon: "x", label: "X: @april_sx", href: "https://x.com/april_sx?s=11" },
+  { icon: "email", label: "aprilh2wa@gmail.com", href: "aprilh2wa@gmail.com" }
 ];
 /* ================================= */
 
